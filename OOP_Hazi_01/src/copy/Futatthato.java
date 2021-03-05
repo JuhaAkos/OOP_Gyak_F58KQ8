@@ -1,4 +1,4 @@
-package elso;
+package elso.copy;
 import java.util.Scanner;
 
 public class Futatthato {

@@ -1,4 +1,4 @@
-package elso;
+package elso.copy;
 
 public class Személy {
 
